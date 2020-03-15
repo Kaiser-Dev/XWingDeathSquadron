@@ -46,7 +46,7 @@
                              \../,,,,,,,,,,,,\../                    |                        |                     \../,,,,,,,,,,,,\../                       
                               \/,,,,,,,,,,,,,,\/                     |                        |                      \/,,,,,,,,,,,,,,\/                        
                                ================                      |                        |                       ================                         
-                                                                     =          v0.3          =                                                                
+                                                                     =          v0.4          =                                                                
 
 
 --- Experience and Pilots ---
@@ -57,17 +57,18 @@ Mission Victory: 4 XP
 Mission Loss: 2 XP
 Survive a mission: 2 XP
 
-Levels:
-0 - 0
-1 - 8
-2 - 10
-3 - 12
-4 - 14
-5 - 16
-6 - 18
-7+ - 20
+Pilot Skill (total XP):
+2 - 0
+3 - 8 (+8)
+4 - 18 (+10)
+5 - 30 (+12)
+6 - 44 (+14)
+7 - 60 (+16)
+8 - 78 (+18)
+9 - 98+ (+20 per skill)
 
 Pilots start at PS 2 and gain +1 PS (to a max of PS 9) and a skill for each Level.
+A PS9 pilot continues to gan skills every 20XP, but does not increase PS
 To gain a skill, choose a skill tree and roll a d6. If the chosen skill has no effect, roll again on the same tree. Note that some skills can be obtained more than once.
 
 A pilot can only gain one skill from one faction-specific tree.
@@ -85,7 +86,7 @@ Blank or Focus	 - Ship is recovered with -1 Hull until repaired for 2 Points.
 Hit or Critical	 - Ship is destroyed and the pilot is issued a TIE Fighter/Z-95 depending on their faction.
 If the mission succeeds, the die may be rerolled.
 
-A ship that flees the battlefield is treated as surviving for all rules purposes, except they do not gain the "Survive a Mission" XP.
+A ship that flees the battlefield (While not a mission objective) is treated as surviving for all rules purposes, except they do not gain the "Survive a Mission" XP.
 
 
 
@@ -93,43 +94,42 @@ A ship that flees the battlefield is treated as surviving for all rules purposes
 
 Gunner:
 1 - You may re-roll one attack die per turn.
-2 - When you spend a Focus Token on an attack, you may turn up to two of the focus results into critical results.
+2 - When you spend a Focus Token on an attack, you may turn a focus result into a critical result.
 3 - Do not discard the Focus Token when you spend it to modify attack dice.
 4 - You may treat Attack (Target Lock) as Attack (Focus) and vice versa.
 5 - The basic range 1 attack bonus now also applies at range 2
-6 - Once per game, you may perform an extra primary attack at Pilot Skill 1.
+6 - Once per game, you may perform an extra primary attack at Pilot Skill 0.
 
 Dogfighter:
-1 - Just after you reveal your maneuver, without premeasuring, you may increase the speed by 1 (if it is a legal maneuver on your ship), as if you had chosen that maneuver.
-2 - Just after you reveal your maneuver, without premeasuring, you may decrease the speed by 1 (if it is a legal maneuver on your ship), as if you had chosen that maneuver.
-3 - Gain the Barrel Roll action. If you already have it all Barrel Roll actions are now free actions
-4 - Gain the Boost action. If you already have it, all Boost actions are now free actions
+1 - Just after you reveal your maneuver, without premeasuring, you may increase the speed by 1 (if it is a legal maneuver on your ship).
+2 - Just after you reveal your maneuver, without premeasuring, you may decrease the speed by 1 (if it is a legal maneuver on your ship).
+3 - Gain the Barrel Roll action. If you already have it, you may perform Barrel Rolls with the 1-Bank template.
+4 - Gain the Boost action. If you already have it, you may perform Boost Actions with the 1-Turn template
 5 - When you perform a Barrel Roll or Boost Action, you may remove an enemy target lock from your ship.
 6 - Once per game, you may set and perform a maneuver your ship normally can't. This must count as a Red Maneuver.
 
 Wingman:
-1 - Once per turn when you would perform an action, a different friendly ship at range 1-3 may perform an action. You cannot perform any actions that turn.
+1 - Once per turn when you would perform an action, a different friendly ship at range 1-3 may perform an action. You cannot perform other actions that phase.
 2 - Once per turn when you would perform an attack, a different friendly ship may perform an action. You cannot perform any attacks that turn.
 3 - Friendly ships at range 1 may treat your focus tokens as their own. (XP from extra damage/evades is gained by wingman)
 4 - When a different friendly ship at range 1-2 reveals the same maneuver as you, the other ship may treat their maneuver as green.
-5 - Once per turn, when a different friendly ship shoots at an enemy ship at range 1-2 in your firing arc, the friendly ship gains one hit result. (XP is gained by wingman)
-6 - Once per turn, when an enemy ship at range 1-2 in your firing arc shoots at a different friendly ship, the friendly ship gains one evade result. (XP is gained by wingman)
+5 - Once per turn, when a different friendly ship shoots at an enemy ship at range 1-2 in your firing arc, the friendly ship gains one hit result. (XP for extra hit is gained by wingman)
+6 - Once per turn, when an enemy ship at range 1-2 in your firing arc shoots at a different friendly ship, the friendly ship gains one evade result. (XP for extra evade is gained by wingman)
 
 Brawler:
 1 - You may re-roll one defense die per turn.
 2 - Gain the Evade action. If you already have the Evade Action, and have at least one damage card, Evade Actions are free actions.
 3 - When an enemy ship in your firing arc attacks you, You may choose any number of critical results. Your opponent must reroll them.
 4 - When you are dealt any number of faceup damage cards, you may discard one with the Pilot type without resolving its effect.
-	During the end phase, discard all faceup damage cards assigned to your ship with the Pilot type
 5 - When a ship attacks you, if you are outside the their primary firing arc, they must roll one less attack die than normal.
 6 - After you perform an attack against an enemy ship, any ship that enemy ship targets rolls one extra defense die.
 
 Technician:
 1 - When performing an attack with a missile or torpedo, do not discard the card unless the attack hits.
-2 - Your upgrade bar gains either a Bomb, Missile or Torpedo icon.
+2 - Your upgrade bar gains either a Bomb, Missile or Torpedo icon (Choose Immediately).
 3 - At the start of the game, roll one attack die. On a Hit or Critical, gain one shield token. This can take you above your maximum.
-4 - Gain the Target Lock action. If you already have it, all Target Lock actions are now free actions.
-5 - When you perform an attack, if you have a Target Lock on the defender you may turn up to two Hit results into Critical results. You cannot spend the Target Lock during this attack.
+4 - Gain the Target Lock action. If you already have it, you may Target Lock at range 4-5.
+5 - When you perform an attack, if you have a Target Lock on the defender you may turn one Hit result into a Critical result. You cannot spend the Target Lock during this attack.
 6 - Your ship can now equip 2 modifications.
 
 
@@ -139,7 +139,7 @@ Rebel:
 2. At the start of the Combat phase, choose 1 other friendly ship at Range 1-2. Until the end of the phase, treat that ship's pilot skill value as 12.
 3. After you perform a green maneuver, you may reduce your agility by one (to a minimum of zero) until the end of the turn to recover one shield token.
 4. When another friendly ship at Range 1-2 is attacking, if you have no stress tokens, you may receive 1 stress token to allow that ship to roll 1 additional attack die.
-5. Once per turn, When an enemy ship inside your firing arc at Range 1-3 is defending from an attack from a different friendly ship, the attacker may change 1 of its hit results to a critical result.
+5. Once per turn, When an enemy ship inside your firing arc at Range 1-3 is defending, the attacker may change 1 of its hit results to a critical result.
 6. Choose any Skill from this tree.
 
 Empire:
@@ -152,10 +152,10 @@ Empire:
 
 Scum:
 1. When defending, you may remove 1 stress token from the attacker to add 1 evade result to your roll.
-2. At the Start of the End Phase, you may assign one of your stress tokens to another ship at range 1.
+2. At the start of the End Phase, you may assign one of your stress tokens to another ship at range 1.
 3. When attacking or defending, if there is an enemy ship at range 1 you may reroll one die.
 4. When attacking you may recieve any number of Stress tokens to choose a equal number of defence dice, the defender must reroll those dice.
-5. When attacking you may recieve 1 Ion token to choose 1 of the defenders Focus or Evade tokens, that token cannot be spent during this attack.
+5. When attacking you may recieve 2 Ion tokens to choose 1 of the defenders Focus or Evade tokens, that token cannot be spent during this attack.
 6. Choose any Skill from this tree.
 
 
@@ -184,7 +184,7 @@ Empire:
 10 - TIE Fighter
 *13 - TIE/fo Fighter
 14 - TIE Bomber
-*14 - TIE Adv. Prototype
+15 - TIE Adv. Prototype
 17 - TIE Interceptor
 19 - TIE Advanced
 19 - TIE Punisher
@@ -192,7 +192,8 @@ Empire:
 22 - TIE Phantom
 29 - TIE Defender
 
-20 - Lamdba Shuttle
+20 - Lamdba-Class Shuttle
+*28 - Upsilon-Class Shuttle
 37 - VT-49 Decimator
 
 
@@ -217,7 +218,7 @@ Scum:
 --- Gaining Points ---
 
 For participating in a mission, each pilot gains d3 points.
-If they survived, they may re-roll the d3.
+If they won the mission, they may re-roll the d3.
 
 For each ship that did not participate in a mission, roll a defense die. On an Evade result, gain one point.
 
@@ -288,7 +289,7 @@ Delay Enemy Reinforcements (Survive until Timer)
 Escort Shuttle
 Assassinate Shuttle
 Destroy Satellites
-Mine Asteroids E(ither for ore or with explosives)
+Mine Asteroids (Either for ore or with explosives)
 Escape Ambush
 Clear Minefield (Shoot at mine tokens)
 Scan and escape
@@ -298,13 +299,52 @@ Rescue a Defector
 
 
 --- Credits ---
-Game Design: Daniel Stanhope
-Assisstant Writers: Tim Scott, Josh T
-Playtesters: Tim Sharp 'Scum among Rebels', Luke Holdsworth 'Just gimme an X-Wing', Joel M 'Ninja Z-95'
+Game Design:
+Daniel Stanhope
+
+Assisstant Writers:
+Tim Scott
+Josh Tucci
+
+Playtesters:
+Tim 'Scum among Rebels' Sharp
+Luke 'Just gimme an X-Wing' Holdsworth
+Joel 'Ninja Z-95' M
+Tim 'Stay for the XP' Scott
+Josh 'Crit or Miss' Tucci
 
 
 
 --- Patch Notes ---
 v0.3
-Added: Faction Specific Skills, Missions, Credits, Heading, Patch Notes
-Updated: Everything else
+Added:
+Faction Specific Skills
+Missions
+Credits
+Heading
+Patch Notes
+
+Updated:
+Everything else
+
+
+v0.4
+Added:
+Upsilon-class Shuttle
+
+Updated:
+TIE Adv. Prototype Cost is now 15
+Gunner 2 now produces only 1 Critical
+Gunner Skill 6 is now PS0
+Dogfighter 1, 2 New Maneuver now uses same colour as original.
+Dogfighter 4 Barrel Rolls using 1-bank instead of free action
+Dogfighter 5 Boosts using 1-Turn instead of free action
+Wingman 1 Changed action restriction from turn to phase
+Wingman 5, 6 XP gain clarified
+Technician 2 Chooses Upgrade Immediately
+Technician 4 Target Locks at range 4-5 instead of free action
+Technician 5 Only generates 1 Critical
+Scum 5 changed to cost 2 ion tokens.
+Changed Points income to reroll if won mission
+'Levels' removed for clarification, PS now determines Level.
+XP costs changed to cumulative, rather than subrative
