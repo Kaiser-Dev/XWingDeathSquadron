@@ -46,13 +46,13 @@
                              \../,,,,,,,,,,,,\../                    |                        |                     \../,,,,,,,,,,,,\../                       
                               \/,,,,,,,,,,,,,,\/                     |                        |                      \/,,,,,,,,,,,,,,\/                        
                                ================                      |                        |                       ================                         
-                                                                     =          v0.5          =                                                                
+                                                                     =         v0.6.1         =                                                                
 
 
 --- Experience and Pilots ---
 
 Successful Hit or Critical damage dealt: 1 XP
-Each Hit or Critical cancelled when you evade an entire attack: 1 XP
+Successful evasion of an entire attack (When at least one Hit or Critical result is cancelled): 1 XP
 Mission Victory: 4 XP
 Mission Loss: 2 XP
 Survive a mission: 2 XP
@@ -236,6 +236,7 @@ Empire:
 Scum:
 10 - Z-95
 12 - M3-A Scyk Interceptor
+*14 - Quadjumper
 15 - HWK-290
 16 - Y-Wing
 18 - Kihraxz Fighter
@@ -293,7 +294,8 @@ When an upgrade card is discarded during a mission, it is regained between missi
 
 
 Modifications:
-To buy a modification, choose a ship and combine the available, equipable modifications into a deck, then draw three cards.
+To buy a modification, choose a ship and collate any the modification cards that are specific to the name of that ship.
+Then combine any other available, equipable modifications into a deck and draw three cards.
 One of these modifications can be bought and immediately attached to the ship. If no modification is bought, pay 1 point anyway for the quote.
 Modifications cannot be removed.
 
@@ -397,7 +399,6 @@ Sabine's TIE
 U-Wing
 XP bonuses for assists
 
-
 Updated:
 Brawler 3 Firing Arc limitation removed
 Old Technician 1 & 2 moved to Bombadier tree
@@ -409,7 +410,10 @@ All "Gain the ____ action" skills changed to "Your action bar gains the ____ act
 Zero Point upgrades now have a listed price of 1 for selling purposes.
 
 
+V0.6
+Added:
+Quadjumper
 
-
-Clarify assisting
-Combine Dogfighter 1 and 2?
+Updated:
+Modification Rules changed
+XP for evasion changed to one XP per successful dodge.
