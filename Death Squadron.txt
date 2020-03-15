@@ -46,7 +46,7 @@
                              \../,,,,,,,,,,,,\../                    |                        |                     \../,,,,,,,,,,,,\../                       
                               \/,,,,,,,,,,,,,,\/                     |                        |                      \/,,,,,,,,,,,,,,\/                        
                                ================                      |                        |                       ================                         
-                                                                     =         v0.7.1         =                                                                
+                                                                     =         v0.7.2         =                                                                
 
 
 --- Experience and Pilots ---
@@ -208,6 +208,7 @@ Force-Sensitive Pilot:
 Rebel:
 10 - Z-95
 *10 - TIE Fighter
+13 - Sheathipede-class Shuttle
 14 - HWK-290
 16 - Y-Wing
 16 - A-Wing
@@ -221,6 +222,7 @@ Rebel:
 26 - E-Wing
 
 21 - U-Wing
+*22 - B/SF-17 Bomber
 32 - VCX-100 (+14 for Attack Shuttle)
 26 - YT-1300 (Outer Rim Smuggler variant)
 33 - YT-1300 (Millennium Falcon variant, without title)
@@ -234,11 +236,13 @@ Empire:
 14 - TIE Aggressor
 15 - TIE Adv. Prototype
 15 - TIE Striker
+16 - Alpha-Class Star Wing
 17 - TIE Interceptor
 19 - TIE Advanced
 19 - TIE Punisher
 *20 - TIE/sf Fighter
 22 - TIE Phantom
+*22 - TIE Silencer
 29 - TIE Defender
 
 20 - Lamdba-Class Shuttle
@@ -254,6 +258,7 @@ Scum:
 16 - Y-Wing
 18 - Kihraxz Fighter
 19 - Protectorate Starfighter
+19 - M12-L Kimogila Fighter
 20 - G1-A Starfighter
 21 - Scurrg H-6 Bomber
 24 - StarViper
@@ -543,8 +548,13 @@ Card Changes Section
 Secondary Missions
 Unique Upgrade Card description, tables and optional rules.
 Auzituck Gunship
+Sheathipede-class Shuttle
+B/SF-17 Bomber
 Scurrg H-6 Bomber
+M12-L Kimogila Fighter
 TIE Aggressor
+TIE Silencer
+Alpha-Class Star Wing
 
 Updated:
 Clarified wording on removing Upkeep Tokens from ordnance cards
