@@ -46,7 +46,7 @@
                              \../,,,,,,,,,,,,\../                    |                        |                     \../,,,,,,,,,,,,\../                       
                               \/,,,,,,,,,,,,,,\/                     |                        |                      \/,,,,,,,,,,,,,,\/                        
                                ================                      |                        |                       ================                         
-                                                                     =         v0.6.2         =                                                                
+                                                                     =         v0.7.1         =                                                                
 
 
 --- Experience and Pilots ---
@@ -129,7 +129,7 @@ Wingman:
 1 - Once per turn when you would perform an action, a different friendly ship at range 1-3 may perform an action. You cannot perform other actions that phase.
 2 - Once per turn when you would perform an attack, a different friendly ship may perform an action. You cannot perform any attacks that turn.
 3 - Friendly ships at range 1-2 may treat your focus tokens as their own. (XP from extra damage/evades is gained by wingman)
-4 - When a different friendly ship at range 1-2 reveals the same maneuver as you, the other ship may treat their maneuver as green.
+4 - When a different friendly ship at range 1-2 reveals the same manoeuvre as you, the other ship may treat their manoeuvre as green.
 5 - Once per turn, when a different friendly ship attacks an enemy ship at range 1-2 in your firing arc, the friendly ship gains one hit result.
 6 - Once per turn, when an enemy ship at range 1-2 in your firing arc shoots at a different friendly ship, the friendly ship gains one evade result.
 
@@ -215,7 +215,9 @@ Rebel:
 20 - B-Wing
 21 - K-Wing
 21 - ARC-170
+21 - Scurrg H-6 Bomber
 *22 - T-70 X-wing
+22 - Auzituck Gunship
 26 - E-Wing
 
 21 - U-Wing
@@ -229,6 +231,7 @@ Empire:
 10 - TIE Fighter
 *13 - TIE/fo Fighter
 14 - TIE Bomber
+14 - TIE Aggressor
 15 - TIE Adv. Prototype
 15 - TIE Striker
 17 - TIE Interceptor
@@ -252,6 +255,7 @@ Scum:
 18 - Kihraxz Fighter
 19 - Protectorate Starfighter
 20 - G1-A Starfighter
+21 - Scurrg H-6 Bomber
 24 - StarViper
 
 22 - JumpMaster 5000
@@ -286,7 +290,7 @@ Upkeep:
 Each Pilot in the Squadron costs 1 point to upkeep per mission, whether they participated or not.
 
 When a missile, bomb or Torpedo is first purchased assign three upkeep tokens to it.
-Each time the card is discarded, remove one upkeep token from the card between missions to regain it.
+After each mission in which the card was discarded (even if it was regained during the mission), remove one upkeep token from the card to regain it.
 If the card has no upkeep tokens, it cannot be taken into a mission (But remains in the player's inventory)
 Spend 1 point in Upkeep to restore the card to three upkeep tokens.
 
@@ -297,10 +301,40 @@ Spend 1 point in Upkeep to restore the card to three upkeep tokens.
 Between missions, Ships can be upgraded by purchasing Ship Upgrade cards.
 Upgrade cards can be attached to a ship (with the relevant upgrade slot) or kept in a personal inventory.
 Between missions, Upgrade cards can be unequipped from a ship and kept in a personal inventory.
-No unique cards can be bought, only obtained through missions, unless the origin of the unique entity is unknown.
 Treat all zero point cost upgrades as costing 1 point, for all rules purposes.
 A ship can be purchased with a negative upgrade it can equip, whereupon you pay the modified cost. These upgrades can only be removed by paying double the magnitude of their cost.
 When an upgrade card is discarded during a mission, it is regained between missions at no cost (exception for Missiles, Bombs and Torpedoes - see above).
+
+
+Unique Upgrade Cards:
+Names Unique cards strain the immersion of the story-aspect of the game. The players of each campaign should decide how they wish to use, or not use, such cards.
+The following is a recommended structure for including Unique Upgrade Cards.
+
+A player can, between missions, declare their intention to acquire a specific unique upgrade.
+Depending on the upgrade type, a random Secondary Mission should be added to the next mission played, as per the tables below.
+If that player succeeds in the Secondary Mission, they may purchase that unique upgrade.
+
+Promotion-type mission (Titles):
+	1 - Assassinate
+	2 - Rendezvous and Escort
+	3 - Attrition
+
+Personnel-type missions (Crew Members):
+	2 - Rendezvous and Escort
+	4 - Rescue and Secure
+	6 - Secure Station
+
+Cargo-type missions (Astromechs, Bombs, Cannons, Illicits, Missiles, Modifications, Salvaged Astromechs, Systems, Tech, Torpedoes, Turrets):
+	4 - Rescue and Secure
+	5 - Scan and Collect
+	6 - Secure Station
+
+Optional unique upgrade rules:
+Unique upgrades for which the origin of the entity is unknown can be purchased as non-uniques.
+Characters that appear in movies (or are particularly special to players) can be hired for a limited number of consecutive missions before they leave.
+A player may only have 1 unique upgrade at any given time.
+If a ship with a unique upgrade is destroyed, that upgrade cannot be acquired again.
+If the Secondary Mission is failed, the relevant unique upgrade cannot be acquired again.
 
 
 Modifications:
@@ -326,7 +360,30 @@ Any actions the ship performs should be decided as a group.
 
 
 
+--- Card Changes ---
+
+The following are balance fixes and clarifications for upgrade cards, to be used in Death Squadron.
+
+Do not use the following cards in Death Squadron:
+All Elite Pilot Trait upgrade cards
+A-wing Test Pilot (Title)
+IG-2000 (Title)
+IG-88D (Crew)
+R2-D6 (Astromech)
+
+Changes:
+Autoblaster Turret	- Change the first sentence to read: Your hit results can only be cancelled by evade tokens and dice modified by focus tokens.
+Autoblaster Cannon	- Change the first sentence to read: Your hit results can only be cancelled by evade tokens and dice modified by focus tokens.
+TIE/x1			- Change the second sentence to read: Reduce the Listed Price by 4 (to a minimum of 1) of any system card purchased and immediately equipped to the system slot granted by TIE/x1. Cards purchased in this way can never be equipped to a ship without the TIE/x1 card.
+Vaksai			- Change the first sentence to read: Reduce the Listed Price by 1 (to a mimimum of 1) of any upgrade card purchased and immediately equipped to this ship. Cards purchased in this way can never be equipped to a ship without the Vaksai card.
+
+Clarifications:
+Hound's Tooth		- The Nashtah Pup is piloted by only one Pilot in the destroyed YV-666, the rest are treated as destroyed.
+
+
+
 --- Missions ---
+
 Use points system to balance mission.
 Total the points that the players have in active ships, and add 1 for each level they have.
 It is a good idea to give NPCs slightly less points, or use a mission objective that does not require the players to confront the full enemy force.
@@ -339,13 +396,42 @@ Destroy Satellites
 Mine Asteroids (Either for ore or with explosives)
 Escape Ambush
 Clear Minefield (Shoot at mine tokens)
-Scan and escape
+Scan a station and escape (Can escort a specialist)
 Slice into Station (Ionise Satellites, Escort shuttle to station)
 Rescue a Defector
+
+Secondary Missions:
+Sometimes a game effect or storyline calls for a secondary mission. If so, one of these should be run in conjunction with another mission objective.
+1 - Assassinate:
+	Add a random Elite AI enemy small ship, but treat your average PS as two lower for determining its strength. It arrives turn one from a random attack vector.
+	If this ship has been destroyed when the mission ends, the Secondary Mission is a success.
+2 - Rendezvous and Escort:
+	At the start of the mission, place a Senator's Shuttle token (or unused friendly ship) in the centre of the game board facing a friendly table edge. At the start of the activation phase, it performs a 1-speed manoeuvre.
+	The shuttle has 6 hull and 2 agility. If the average pilot skill of the players is 6 or more, it has 6 shields and 0 agility. Enemy ships will attack the shuttle as if it were a player ship.
+	Friendly ships may perform a protect action on the shuttle.
+	If the shuttle flees the battlefield off a table edge, treat the Secondary Mission as a success.
+3 - Attrition:
+	At the end of the mission, any ship that has not been dealt a Damage card during the mission treats the Secondary Mission as a success.
+4 - Rescue and Secure:
+	At the start of the mission, randomly select one enemy ship with a crew slot (or a slot matching the unique upgrade card desired, if applicable).
+	When this ship is destroyed, it drops a Mission Token, which can be collected as it if were a scrap token.
+	If at the end of the game this token is on a friendly ship's card, the Secondary Mission is a success.
+5 - Scan and Collect:
+	At the start of the mission, prepare a bag with a number token for each obstacle in play. Choose one of these number tokens to represent the mission objective.
+	When a Scan action is performed on an obstacle, draw a random token from the bag. If it is the mission objective, place it on the obstacle. It may be collected as if it were a scrap token.
+	If at the end of the game this token is on a friendly ship's card, the Secondary Mission is a success.
+6 - Secure Station:
+	Add a two-module space station with a shield generator and a cargo container to play in a random location.
+	Add a squadron of two TIE fighters/Z-95s. They arrive turn 1 from a random attack vector on the furthest neutral edge from the station. Treat them as having Strike AI against the station.
+	If the average pilot skill of the players is 6 or more: Replace the two enemy ships with two non-elite TIE Bombers/Y-wings
+	Friendly ships may perform a protect action on the station.
+	If the station has been destroyed, the two ships will retreat off the nearest board edge.
+	If at the end of the game the cargo container has not been destroyed, the Secondary Mission is a success.
 
 
 
 --- Credits ---
+
 Game Design:
 Daniel Stanhope
 
@@ -364,6 +450,7 @@ Joel 'No XP' Armour
 
 
 --- Patch Notes ---
+
 v0.3
 Added:
 Faction Specific Skills
@@ -448,3 +535,16 @@ XP for assisting clarified.
 Modification Rules changed.
 Ship destruction rules changed.
 Upgrade cards can now be sold for 1 less point, instead of 2.
+
+
+v0.7
+Added:
+Card Changes Section
+Secondary Missions
+Unique Upgrade Card description, tables and optional rules.
+Auzituck Gunship
+Scurrg H-6 Bomber
+TIE Aggressor
+
+Updated:
+Clarified wording on removing Upkeep Tokens from ordnance cards
