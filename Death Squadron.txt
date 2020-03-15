@@ -1,0 +1,310 @@
+
+
+     =======================         ===========================            ============            ===========================     =========         =========
+     ||^#^#^#^#^#^#^#^#^#^#\\        ||^#^#^#^#^#^#^#^#^#^#^#^||           //^#^#^#^#^#\\           ||^#^#^#^#^#^#^#^#^#^#^#^||     ||^#^#^||         ||^#^#^||
+     ||#^#^#^#^#^#^#^#^#^#^#\\       ||#^#^#^#^#^#^#^#^#^#^#^#||          //^#^#^==#^#^#\\          ||#^#^#^#^#^#^#^#^#^#^#^#||     ||#^#^#||         ||#^#^#||
+     ||^#^#^#^#^#^#^#^#^#^#^#\\      ||^#^#^#^#^#^#^====""""\^||         //^#^ ^//\\ ^#^#\\         ||^#^#^#^#^#^#^#^#^#^#^#^||     ||^#^#^||         ||^#^#^||
+     ||#^#^#===========#^#^#^ \\     ||#^#^#====""""         \||        //^ ^ ^//  \\ ^ ^ \\        || /=======^#^#^=======\#||     || ^#^#||         ||#^#^#||
+     ||^#^#^||        \\ ^ ^ ^||     ||^#^#^||                         //^ ^ ^//    \\ ^ ^ \\       ||/      || ^ ^#||      \||     ||^ ^ ^||         ||^#^#^||
+     ||#^#^#||         \\ ^ ^ ||     ||#^ ^ ||   ___===""||           //^    //      \\   ^ \\               ||^ ^ ^||              || ^ ^ ||         ||#^#^#||
+     ||^#^ ^||         ||^ ^ ^||     ||^ ^ ^||===""" ^ ^ ||          //      ==========      \\              || ^ ^ ||              ||^ ^ ^||         ||^ ^#^||
+     || ^ ^ ||         || ^ ^ ||     || ^ ^ ^ ^ ^ ^ ^ ^ ^||          ||                      ||              ||^ ^ ^||              || ^ ^ ||         || ^ ^ ||
+     ||^ ^ ^||         ||^ ^ ^||     ||^ ^ ^ ^ ^ ^ ^___==||          ||                      ||              || ^ ^ ||              ||^ ^ ^||         ||^ ^ ^||
+     || ^ ^ ||         || ^ ^ ||     || ^ ^ ^ ___==="""              ||     ============     ||              ||  ^ ^||              || ^ ^ ============= ^ ^ ||
+     ||^ ^ ^||         ||^ ^ ^||     ||^ ^ ^||"""            /||     ||     ||        ||     ||              ||     ||              ||^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^||
+     || ^ ^ ||         || ^ ^ ||     ||     ||       ___==="" ||     ||     ||        ||     ||              ||     ||              || ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ||
+     ||^ ^ ^||         ||^ ^ ^||     ||     || ___==="""      ||     ||     ||        ||     ||              ||     ||              ||^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^||
+     || ^ ^ ||         || ^   ||     ||     ==="""            ||     ||     ||        ||     ||            ====     ||              ||   ^ ============= ^ ^ ||
+     ||^ ^ ^||         ||     ||     ||                  __=====     =========        =========           //        ||              ||     ||         ||^ ^ ^||
+     || ^ ^ ||         ||     ||     ||              __--``                                               "--__     ====            ||     ||         || ^ ^ ||
+     ||^    ||         //     ||     ||        __--``        __=   ===     ===     =======    =======          ``--__  \\           ||     ||         ||    ^||
+     ||     ||   __--``       ||     ||  __--``        __    | |   | |    /   \    |  ___ \   |  __  \     __        ``--           ||     ||         ||     ||
+     ||     =--``             ||     --``          ==""  \   | |   | |   /  ^  \   | |   \ \  | |__) |    /  ""==                   ||     ||         ||     ||
+     ||                      _//           __=="  /  -"\  \  | |   | |  /  /_\  \  | |   | |  |     _/   /  /"-  \  "==_            -__    ||         ||     ||
+     ||                __--``           ="" ___|  | /   \ |  | |   | |  |  ___  |  | |   | |  | |\  \    | /   \ |  |   \ "==          ``--||         ||     ||
+     ||          __--``        __==     \  "---   | \_\\/ |  \  \_/  /  | |   | |  | |___/ /  | | \  \   | \___/ |  | |\ \| |    ==__                 ||     ||
+     ||    __--``        __==""  ||    /"""   /   \    \\ /   \     /   | |   | |  |      /   | |  \  \  \       /  | | \   |    ||  ""==__           -__    ||
+     ====``        __==""==========    =======     =====\\     =====    ===   ===  =======    ===   ===   =======   ===  ====    ==========""==__        ``====
+                                                                                                                                                               
+                                                                                                                                                               
+                                                                     =                        =                                                                
+                               ================                      |                        |                       ================                         
+                              /\,,,,,,,,,,,,,,/\                     |                        |                      /\,,,,,,,,,,,,,,/\                        
+                             /..\,,,,,,,,,,,,/..\                    |                        |                     /..\,,,,,,,,,,,,/..\                       
+                             /...\,,,,,,,,,,/...\                    |                        |                     /...\,,,,,,,,,,/...\                       
+                            /.....\,,,,,,,,/.....\                   |                        |                    /.....\,,,,,,,,/.....\                      
+                            /......\,,,,,,/......\                   |                        |                    /......\,,,,,,/......\                      
+                           /........\____/........\                  |         _-""-_         |                   /........\____/........\                     
+                           /......../^==^\........\                  |       _/  An  \_       |                   /......../^==^\........\                     
+                          /________/+//\\+\________\                 |\=____=| X-Wing |=____=/|                  /________/+//\\+\________\                    
+                          \""""""""\+\\//+/""""""""/                 |/=""""=|Campaign|=""""=\|                  \""""""""\+\\//+/""""""""/                    
+                           \........\v==v/......../                  |       "\ o  o /"       |                   \........\v==v/......../                     
+                           \......../""""\......../                  |         "-__-"         |                   \......../""""\......../                     
+                            \....../,,,,,,\....../                   |                        |                    \....../,,,,,,\....../                      
+                            \...../,,,,,,,,\...../                   |                        |                    \...../,,,,,,,,\...../                      
+                             \.../,,,,,,,,,,\.../                    |                        |                     \.../,,,,,,,,,,\.../                       
+                             \../,,,,,,,,,,,,\../                    |                        |                     \../,,,,,,,,,,,,\../                       
+                              \/,,,,,,,,,,,,,,\/                     |                        |                      \/,,,,,,,,,,,,,,\/                        
+                               ================                      |                        |                       ================                         
+                                                                     =          v0.3          =                                                                
+
+
+--- Experience and Pilots ---
+
+Successful Hit or Critical damage dealt: 1 XP
+Each Hit or Critical cancelled when you evade an entire attack: 1 XP
+Mission Victory: 4 XP
+Mission Loss: 2 XP
+Survive a mission: 2 XP
+
+Levels:
+0 - 0
+1 - 8
+2 - 10
+3 - 12
+4 - 14
+5 - 16
+6 - 18
+7+ - 20
+
+Pilots start at PS 2 and gain +1 PS (to a max of PS 9) and a skill for each Level.
+To gain a skill, choose a skill tree and roll a d6. If the chosen skill has no effect, roll again on the same tree. Note that some skills can be obtained more than once.
+
+A pilot can only gain one skill from one faction-specific tree.
+Once a pilot has a faction-specific skill, he/she may only pilot ships drawn from that faction.
+A pilot with a faction-specific skill may fill a crew slot in a ship of another faction, but cannot use their faction-spcific skill.
+
+If a pilot's ship is destroyed during a mission, roll an attack die for the pilot at the end of that mission:
+Blank	 - Pilot makes a full recovery.
+Focus	 - Pilot is captured: pay points equal to Pilot skill to ransom (use a new PS 2 Pilot in meantime, who may be retired if the original is recovered). If held by NPCs and not ransomed after the next game, Pilot is executed.
+Hit	 - Pilot is injured: lower your pilot skill by 2 for the next mission
+Critical - Pilot is killed.
+
+Then, roll an attack die for the ship:
+Blank or Focus	 - Ship is recovered with -1 Hull until repaired for 2 Points.
+Hit or Critical	 - Ship is destroyed and the pilot is issued a TIE Fighter/Z-95 depending on their faction.
+If the mission succeeds, the die may be rerolled.
+
+A ship that flees the battlefield is treated as surviving for all rules purposes, except they do not gain the "Survive a Mission" XP.
+
+
+
+--- Pilot Skills ---
+
+Gunner:
+1 - You may re-roll one attack die per turn.
+2 - When you spend a Focus Token on an attack, you may turn up to two of the focus results into critical results.
+3 - Do not discard the Focus Token when you spend it to modify attack dice.
+4 - You may treat Attack (Target Lock) as Attack (Focus) and vice versa.
+5 - The basic range 1 attack bonus now also applies at range 2
+6 - Once per game, you may perform an extra primary attack at Pilot Skill 1.
+
+Dogfighter:
+1 - Just after you reveal your maneuver, without premeasuring, you may increase the speed by 1 (if it is a legal maneuver on your ship), as if you had chosen that maneuver.
+2 - Just after you reveal your maneuver, without premeasuring, you may decrease the speed by 1 (if it is a legal maneuver on your ship), as if you had chosen that maneuver.
+3 - Gain the Barrel Roll action. If you already have it all Barrel Roll actions are now free actions
+4 - Gain the Boost action. If you already have it, all Boost actions are now free actions
+5 - When you perform a Barrel Roll or Boost Action, you may remove an enemy target lock from your ship.
+6 - Once per game, you may set and perform a maneuver your ship normally can't. This must count as a Red Maneuver.
+
+Wingman:
+1 - Once per turn when you would perform an action, a different friendly ship at range 1-3 may perform an action. You cannot perform any actions that turn.
+2 - Once per turn when you would perform an attack, a different friendly ship may perform an action. You cannot perform any attacks that turn.
+3 - Friendly ships at range 1 may treat your focus tokens as their own. (XP from extra damage/evades is gained by wingman)
+4 - When a different friendly ship at range 1-2 reveals the same maneuver as you, the other ship may treat their maneuver as green.
+5 - Once per turn, when a different friendly ship shoots at an enemy ship at range 1-2 in your firing arc, the friendly ship gains one hit result. (XP is gained by wingman)
+6 - Once per turn, when an enemy ship at range 1-2 in your firing arc shoots at a different friendly ship, the friendly ship gains one evade result. (XP is gained by wingman)
+
+Brawler:
+1 - You may re-roll one defense die per turn.
+2 - Gain the Evade action. If you already have the Evade Action, and have at least one damage card, Evade Actions are free actions.
+3 - When an enemy ship in your firing arc attacks you, You may choose any number of critical results. Your opponent must reroll them.
+4 - When you are dealt any number of faceup damage cards, you may discard one with the Pilot type without resolving its effect.
+	During the end phase, discard all faceup damage cards assigned to your ship with the Pilot type
+5 - When a ship attacks you, if you are outside the their primary firing arc, they must roll one less attack die than normal.
+6 - After you perform an attack against an enemy ship, any ship that enemy ship targets rolls one extra defense die.
+
+Technician:
+1 - When performing an attack with a missile or torpedo, do not discard the card unless the attack hits.
+2 - Your upgrade bar gains either a Bomb, Missile or Torpedo icon.
+3 - At the start of the game, roll one attack die. On a Hit or Critical, gain one shield token. This can take you above your maximum.
+4 - Gain the Target Lock action. If you already have it, all Target Lock actions are now free actions.
+5 - When you perform an attack, if you have a Target Lock on the defender you may turn up to two Hit results into Critical results. You cannot spend the Target Lock during this attack.
+6 - Your ship can now equip 2 modifications.
+
+
+Faction Specifics:
+Rebel:
+1. When another friendly ship at Range 1-2 is attacking, it may treat your blue target lock tokens as its own.
+2. At the start of the Combat phase, choose 1 other friendly ship at Range 1-2. Until the end of the phase, treat that ship's pilot skill value as 12.
+3. After you perform a green maneuver, you may reduce your agility by one (to a minimum of zero) until the end of the turn to recover one shield token.
+4. When another friendly ship at Range 1-2 is attacking, if you have no stress tokens, you may receive 1 stress token to allow that ship to roll 1 additional attack die.
+5. Once per turn, When an enemy ship inside your firing arc at Range 1-3 is defending from an attack from a different friendly ship, the attacker may change 1 of its hit results to a critical result.
+6. Choose any Skill from this tree.
+
+Empire:
+1. When attacking at range 1, roll 1 extra die.
+2. When attacking, if you are not stressed, you may receive 1 stress token to roll 1 additional die.
+3. When you receive a stress token, you may assign 1 focus token to your ship.
+4. When you are defending, the attacker cannot reroll attack dice.
+5. Twice per game, When you reveal a maneuver, you may treat the speed of that maneuver as "1", "3" or "5"
+6. Choose any Skill from this tree.
+
+Scum:
+1. When defending, you may remove 1 stress token from the attacker to add 1 evade result to your roll.
+2. At the Start of the End Phase, you may assign one of your stress tokens to another ship at range 1.
+3. When attacking or defending, if there is an enemy ship at range 1 you may reroll one die.
+4. When attacking you may recieve any number of Stress tokens to choose a equal number of defence dice, the defender must reroll those dice.
+5. When attacking you may recieve 1 Ion token to choose 1 of the defenders Focus or Evade tokens, that token cannot be spent during this attack.
+6. Choose any Skill from this tree.
+
+
+
+--- Ship Costs ---
+
+Rebel:
+10 - Z-95
+14 - HWK-290
+16 - Y-Wing
+16 - A-Wing
+19 - X-Wing
+20 - B-Wing
+21 - K-Wing
+21 - ARC-170
+*22 - T-70 X-wing
+26 - E-Wing
+
+32 - VCX-100 (+14 for Attack Shuttle)
+26 - YT-1300 (Outer Rim Smuggler variant)
+33 - YT-1300 (Millenium Falcon variant, without title)
+28 - YT-2400
+
+
+Empire:
+10 - TIE Fighter
+*13 - TIE/fo Fighter
+14 - TIE Bomber
+*14 - TIE Adv. Prototype
+17 - TIE Interceptor
+19 - TIE Advanced
+19 - TIE Punisher
+*20 - TIE/sf Fighter
+22 - TIE Phantom
+29 - TIE Defender
+
+20 - Lamdba Shuttle
+37 - VT-49 Decimator
+
+
+Scum:
+10 - Z-95
+12 - M3-A Scyk Interceptor
+15 - HWK-290
+16 - Y-Wing
+18 - Kihraxz Fighter
+19 - Protectorate Starfighter
+20 - G1-A Starfighter
+24 - StarViper
+
+22 - JumpMaster 5000
+27 - YV-666
+28 - Agressor
+30 - Firespray-31
+31 - Lancer-Class Pursuit Craft
+
+
+
+--- Gaining Points ---
+
+For participating in a mission, each pilot gains d3 points.
+If they survived, they may re-roll the d3.
+
+For each ship that did not participate in a mission, roll a defense die. On an Evade result, gain one point.
+
+When a ship is destroyed, it drops a scrap token where it was (Large ships drop two), along with any scrap tokens it was carrying.
+A ship at range 1 may perform a free action to pick up the scrap token, placing it on their card. Note that this action cannot be performed more than once per turn.
+At the end of the mission, each scrap token on the Squadron's ship cards is worth 1 point.
+The winner of the mission claims any tokens left on the map, unless the mission forbids it. These are distributed evenly, then randomly.
+
+Points may also be gained through mission objectives. Generally, between 4 and 6 points per mission, or 2 per player.
+Missions with high ship counts (and thus high scrap token count) should not have large bounties.
+
+Ships can be sold for 2 points less than their listed price, along with any equipped upgrades of the player's choice.
+Unequipped upgrades may be sold for 2 points less than their listed price.
+
+
+Upkeep:
+Each Pilot in the Squadron costs 1 point to upkeep per mission, whether they participated or not.
+
+When a missile, bomb or Torpedo is first purchased assign three tokens to it.
+Each time the card is discarded, remove one token from the card between missions to regain it.
+If the card has no tokens, it cannot be taken into a mission (But remains in the player's inventory)
+Spend 1 point in Upkeep to restore the card to three tokens.
+
+
+
+--- Upgrading Ships ---
+
+Between missions, Ships can be upgraded by purchasing Ship Upgrade cards.
+Upgrade cards can be attached to a ship (with the relevant upgrade slot) or kept in a personal inventory.
+Between missions, Upgrade cards can be unequipped from a ship and kept in a personal inventory.
+No unique cards can be bought, only obtained through missions, unless the origin of the unique entity is unknown
+Treat all zero point cost upgrades as costing 1 point.
+A ship can be purchased with a negative upgrade it can equip, wherupon you pay the modified cost. These upgrades can only be removed by paying double the magnitude of their cost.
+When an upgrade card is discarded during a mission, it is regained between missions at no cost (excpetion for Missiles, Bombs and Torpedoes - see above).
+
+
+Modifications:
+To buy a modification, choose a ship and combine the available, equipable modifications into a deck, then draw three cards.
+One of these modifications can be bought and immediately attached to the ship. If no modification is bought, pay 1 point anyway for the quote.
+Modifications cannot be removed.
+
+
+Titles:
+Titles are purchased as per ordinary upgrade cards, except that once equipped, they cannot be unequipped.
+
+
+Crew slots:
+Similar to using an upgrade card, a Pilot can fill a crew slot, taking partial control of the ship.
+
+Some Skill trees may only be used by one pilot per round, declared at the beginning of the round.
+Gunner skills are only used by the Pilot who is manning the weapon systems for that round. This player chooses targets and rolls the attack dice, and gains XP from damage dealt caused by Hit results.
+Dogfighter skills are only used by the Pilot who is flying the ship for that round. This player sets and executes the Maneuver dial. 
+Brawler skills are only used by the Pilot filling the co-pilot role for that round. This player rolls the defense dice for the ship, and gains XP from damage evaded caused by Hit results.
+All Pilots may use their relevant Technician, Wingman and Faction Specific skills.
+
+XP gained by dealing and evading critical damage is gained by all Pilots present on the ship.
+Any actions the ship performs should be decided as a group.
+
+
+
+--- Missions ---
+Use points system to balance mission.
+Total the points that the players have in active ships, and add 1 for each level they have.
+It is a good idea to give NPCs slightly less points, or use a mission objective that does not require the players to confront the full enemy force.
+
+Some Ideas:
+Delay Enemy Reinforcements (Survive until Timer)
+Escort Shuttle
+Assassinate Shuttle
+Destroy Satellites
+Mine Asteroids E(ither for ore or with explosives)
+Escape Ambush
+Clear Minefield (Shoot at mine tokens)
+Scan and escape
+Slice into Station (Ionise Satellites, Escort shuttle to station)
+Rescue a Defector
+
+
+
+--- Credits ---
+Game Design: Daniel Stanhope
+Assisstant Writers: Tim Scott, Josh T
+Playtesters: Tim Sharp 'Scum among Rebels', Luke Holdsworth 'Just gimme an X-Wing', Joel M 'Ninja Z-95'
+
+
+
+--- Patch Notes ---
+v0.3
+Added: Faction Specific Skills, Missions, Credits, Heading, Patch Notes
+Updated: Everything else
