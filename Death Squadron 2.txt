@@ -46,8 +46,7 @@
                              \../,,,,,,,,,,,,\../                    |                        |                     \../,,,,,,,,,,,,\../                       
                               \/,,,,,,,,,,,,,,\/                     |                        |                      \/,,,,,,,,,,,,,,\/                        
                                ================                      |                        |                       ================                         
-                                                                     =         v2.0.0         =                                                                
-
+                                                                     =         v2.1.0         =                                                                
 
 --- Experience and Pilots ---
 
@@ -135,11 +134,20 @@ Wingman:
 
 Brawler:
 1 - Once per turn when defending, you may re-roll one defence die.
-2 - Your action bar gains the Evade action. If you already have the Evade Action, and have at least one damage card, Evade Actions are free actions.
+2 - Your action bar gains the Evade action. When you have at least one damage card, Evade Actions are free actions.
 3 - When Defending, You may choose any number of critical results. The attacker must reroll them.
 4 - Do not discard the Focus Token when you spend it to modify defence dice.
-5 - When defending, if there are more attack dice than defence dice, roll an extra defence die.
-6 - After you perform an attack against an enemy ship, any ship that enemy ship targets rolls one extra defence die.
+5 - Your action bar gains the Evade action. When you perform the evade action, gain two Evade Tokens.
+6 - When an enemy ship in your firing arc at range 1-3 attacks, the defender rolls one extra defence die.
+
+Juggernaut:
+* - If you have a skill from the Juggernaut Tree, your actions bar gains a White Reinforce Action.
+1 - During the End Phase, choose one Reinforce Token. Do not remove this Token. You may not have more than two Reinforce Tokens, and you may not have more than one on the same cardinal flank.
+2 - When choosing a flank for a Reinforce Token to affect, your options also include the Port and Starboard 180 degree arcs.
+3 - Reinforce Tokens can now reduce incoming damamge to zero.
+4 - When Defending, you may spend a Reinforce Token to turn all Focus Results into Evade Results
+5 - Reinforce Tokens can cancel Critical Hit Results before Hit Results.
+6 - When defending, if there are more attack dice than your agility, roll an extra defence die.
 
 Technician:
 1 - During the end phase, you may choose one ship at range 1-2 and give it one of your shield tokens.
@@ -460,8 +468,12 @@ Joel 'No XP' Armour
 --- Patch Notes ---
 
 v2.0
-Added:
-
-
 Updated:
 Ported Upgrade cards, ship costs to X-Wing Second Edition.
+
+v2.1
+Added:
+Juggernaut Skill Tree
+
+Updated:
+Brawler 2, 5 and 6. 5 is a new skill, the old was moved to Juggernaut 6
