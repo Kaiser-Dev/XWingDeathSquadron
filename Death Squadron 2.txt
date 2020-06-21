@@ -202,21 +202,15 @@ Scum:
 
 This table is intended for narrative purposes, when a pilot is created it should be decided whether or not they are able to obtain skills from it.
 Force-Sensitive Pilot:
+* - The first time you would roll on this tree, if you do not have a force rating gain a force rating of 1 instead.
 1 - Once per turn, if you have a force token you may re-roll any attack or defence die, even if it has already been re-rolled.
 2 - Once per turn when attacking or defending, if you have a force token you may change one focus result into a hit or evade result without spending it.
 3 - At the end of the Combat phase, you may spend a force token to cause each enemy ship at Range 1 that does not have a stress token to receive 1 stress token.
 4 - After a friendly ship at Range 1-2 executes a red or white maneuver, you may spend one force token to remove 1 stress token from that ship.
 5 - Once per game, you may spend a force token to change a friendly ship's die result to any other die result. That die result cannot be modified again.
 6 - At the beginning of the End phase, you may spend one force token to choose an enemy ship at range 1 and roll an attack die. On a Hit or critical, you may set that ship's maneuver in the next planning phase. You may spend force tokens on this roll.
-7 - Increase your force rating by one. You can only roll this once.
-8 - Supernatural Reflexes (Upgrade Card)
-
-8 - Sense (upgrade)
-9 - Predictive shot (upgrade)
-
-11 - Battle Meditation (upgrade)
-
-
+7-8 - Gain a Force Upgrade Slot. Once an upgrade fills this slot, that upgrade cannot be unequipped or sold.
+9 - Increase your force rating by one. You can only roll this once.
 
 --- Ship Costs ---
 
@@ -477,3 +471,4 @@ Juggernaut Skill Tree
 
 Updated:
 Brawler 2, 5 and 6. 5 is a new skill, the old was moved to Juggernaut 6
+Adapted Force-Sensitive Pilot for X-Wing Second Edition
