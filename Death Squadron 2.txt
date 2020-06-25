@@ -46,8 +46,7 @@
                              \../,,,,,,,,,,,,\../                    |                        |                     \../,,,,,,,,,,,,\../                       
                               \/,,,,,,,,,,,,,,\/                     |                        |                      \/,,,,,,,,,,,,,,\/                        
                                ================                      |                        |                       ================                         
-                                                                     =         v2.0.0         =                                                                
-
+                                                                     =         v2.1.0         =                                                                
 
 --- Experience and Pilots ---
 
@@ -135,11 +134,20 @@ Wingman:
 
 Brawler:
 1 - Once per turn when defending, you may re-roll one defence die.
-2 - Your action bar gains the Evade action. If you already have the Evade Action, and have at least one damage card, Evade Actions are free actions.
+2 - Your action bar gains the Evade action. When you have at least one damage card, Evade Actions are free actions.
 3 - When Defending, You may choose any number of critical results. The attacker must reroll them.
 4 - Do not discard the Focus Token when you spend it to modify defence dice.
-5 - When defending, if there are more attack dice than defence dice, roll an extra defence die.
-6 - After you perform an attack against an enemy ship, any ship that enemy ship targets rolls one extra defence die.
+5 - Your action bar gains the Evade action. When you perform the evade action, gain two Evade Tokens.
+6 - When an enemy ship in your firing arc at range 1-3 attacks, the defender rolls one extra defence die.
+
+Juggernaut:
+* - If you have a skill from the Juggernaut Tree, your actions bar gains a White Reinforce Action.
+1 - During the End Phase, choose one Reinforce Token. Do not remove this Token. You may not have more than two Reinforce Tokens, and you may not have more than one on the same cardinal flank.
+2 - When choosing a flank for a Reinforce Token to affect, your options also include the Port and Starboard 180 degree arcs.
+3 - Reinforce Tokens can now reduce incoming damamge to zero.
+4 - When Defending, you may spend a Reinforce Token to turn all Focus Results into Evade Results
+5 - Reinforce Tokens can cancel Critical Hit Results before Hit Results.
+6 - When defending, if there are more attack dice than your agility, roll an extra defence die.
 
 Technician:
 1 - During the end phase, you may choose one ship at range 1-2 and give it one of your shield tokens.
@@ -194,21 +202,15 @@ Scum:
 
 This table is intended for narrative purposes, when a pilot is created it should be decided whether or not they are able to obtain skills from it.
 Force-Sensitive Pilot:
+* - The first time you would roll on this tree, if you do not have a force rating gain a force rating of 1 instead.
 1 - Once per turn, if you have a force token you may re-roll any attack or defence die, even if it has already been re-rolled.
 2 - Once per turn when attacking or defending, if you have a force token you may change one focus result into a hit or evade result without spending it.
 3 - At the end of the Combat phase, you may spend a force token to cause each enemy ship at Range 1 that does not have a stress token to receive 1 stress token.
 4 - After a friendly ship at Range 1-2 executes a red or white maneuver, you may spend one force token to remove 1 stress token from that ship.
 5 - Once per game, you may spend a force token to change a friendly ship's die result to any other die result. That die result cannot be modified again.
 6 - At the beginning of the End phase, you may spend one force token to choose an enemy ship at range 1 and roll an attack die. On a Hit or critical, you may set that ship's maneuver in the next planning phase. You may spend force tokens on this roll.
-7 - Increase your force rating by one. You can only roll this once.
-8 - Supernatural Reflexes (Upgrade Card)
-
-8 - Sense (upgrade)
-9 - Predictive shot (upgrade)
-
-11 - Battle Meditation (upgrade)
-
-
+7-8 - Gain a Force Upgrade Slot. Once an upgrade fills this slot, that upgrade cannot be unequipped or sold.
+9 - Increase your force rating by one. You can only roll this once.
 
 --- Ship Costs ---
 
@@ -460,8 +462,13 @@ Joel 'No XP' Armour
 --- Patch Notes ---
 
 v2.0
-Added:
-
-
 Updated:
 Ported Upgrade cards, ship costs to X-Wing Second Edition.
+
+v2.1
+Added:
+Juggernaut Skill Tree
+
+Updated:
+Brawler 2, 5 and 6. 5 is a new skill, the old was moved to Juggernaut 6
+Adapted Force-Sensitive Pilot for X-Wing Second Edition
